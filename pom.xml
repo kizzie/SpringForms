@@ -146,11 +146,11 @@
 					<warSourceDirectory>WebContent</warSourceDirectory>
 					<failOnMissingWebXml>false</failOnMissingWebXml>
 					
-					<webResources>
+					<resources>
 						<resource>
 							<directory>src\main\webapp\WEB-INF</directory>
 						</resource>
-					</webResources>
+					</resources>
      
 	  
 				</configuration>
