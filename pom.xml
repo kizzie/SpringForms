@@ -145,14 +145,13 @@
 				<configuration>
 					<warSourceDirectory>WebContent</warSourceDirectory>
 					<failOnMissingWebXml>false</failOnMissingWebXml>
-				
+	
 					<webResources>
 						<resource>
-							<outputDirectory>target/SpringForms-1.0.0-BUILD-SNAPSHOT/WEB-INF/</outputDirectory>
 							<directory>src\main\webapp\WEB-INF</directory>
 						</resource>
 					</webResources>
-     
+	
 	  
 				</configuration>
 			</plugin>
